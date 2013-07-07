@@ -1,0 +1,1 @@
+reg query "HKLM\Software\Microsoft\NET Framework Setup\NDP"

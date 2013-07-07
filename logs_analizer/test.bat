@@ -1,0 +1,1 @@
+logs_analizer.bat delivery_receipt::ack
