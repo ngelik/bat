@@ -1,18 +1,22 @@
-About
-===
+# About
+
+**DependOnService**
+
 Adds dependency on a Windows Service after the service is installed
 
-Usage
-===
-Old version
-==
+# Usage
+
+## Old version
+
 DependOnServiceByReg.bat [reg file]
 
-Example: DependOnServiceByReg.bat DependOnService
+*Example:* DependOnServiceByReg.bat DependOnService
 
-New version.
-==
+## New version.
+
 DependOnService.bat [add service_name ServiceB/ServiceC/ServiceD | remove | list service_name]
+
+*Example:*
 
 call DependOnService.bat list rinitd_1
 

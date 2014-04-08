@@ -1,4 +1,7 @@
-bat
-===
+# bat
 
-Коллекция bat скриптов для различных целей.
+Batch scripts collection
+
+## DependOnService
+
+Adds dependency on a Windows Service after the service is installed
