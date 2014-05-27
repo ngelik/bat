@@ -10,7 +10,7 @@ Adds dependency on a Windows Service after the service is installed.
 
 Gets Microsoft .Net version.
 
-# SQL
+## SQL
 
 SQL scripts collection
 
@@ -18,6 +18,6 @@ SQL scripts collection
 
 Different simple scripts examples, tips and tricks
 
-# RabbitMQ
+## RabbitMQ
 
 Scripts collection for RabbitMQ management
