@@ -11,5 +11,3 @@ call %rabbitmqctl% rotate_logs .%datetime%
 :: for debug
 :: move /Y %log_path%\*.%datetime% %log_path%\old 1>>%current_path%\test.txt 2>>&1
 move /Y %log_path%\*.%datetime% %log_path%\old
-
-
